@@ -1,0 +1,15 @@
+﻿ManagerName,EmployeeName,ManagerPhotoUrl,EmployeePhotoUrl,Salary,Salary,Department,Department,ManagerJobTitle,EmployeeJobTitle
+,Paul,,https://peoplegraph.blob.core.windows.net/images/Paul.jpg,,220000,,Board,,CEO
+Evy,Carleen,https://peoplegraph.blob.core.windows.net/images/Evy.jpg,https://peoplegraph.blob.core.windows.net/images/Carleen.jpg,80000,45000,HR,HR,Manager,P&O officer
+Evy,Jorden,https://peoplegraph.blob.core.windows.net/images/Evy.jpg,https://peoplegraph.blob.core.windows.net/images/Jorden.jpg,80000,50000,HR,HR,Manager,Recruiter
+Evy,Madalina,https://peoplegraph.blob.core.windows.net/images/Evy.jpg,https://peoplegraph.blob.core.windows.net/images/Madalina.jpg,80000,30000,HR,HR,Manager,Secretary
+Evy,Patty,https://peoplegraph.blob.core.windows.net/images/Evy.jpg,https://peoplegraph.blob.core.windows.net/images/Patty.jpg,80000,43000,HR,HR,Manager,HR staff
+Luc,Dirk,https://peoplegraph.blob.core.windows.net/images/Luc.jpg,https://peoplegraph.blob.core.windows.net/images/Dirk.jpg,90000,70000,IT,IT,Manager,Consultant
+Luc,Roel,https://peoplegraph.blob.core.windows.net/images/Luc.jpg,https://peoplegraph.blob.core.windows.net/images/Roel.jpg,90000,65000,IT,IT,Manager,Developer
+Luc,Twan,https://peoplegraph.blob.core.windows.net/images/Luc.jpg,https://peoplegraph.blob.core.windows.net/images/Twan.jpg,90000,55000,IT,IT,Manager,Developer
+Mats,Iris,https://peoplegraph.blob.core.windows.net/images/Mats.jpg,https://peoplegraph.blob.core.windows.net/images/Iris.jpg,110000,81000,Sales,Sales,Manager,Account Manager
+Mats,Matthew,https://peoplegraph.blob.core.windows.net/images/Mats.jpg,https://peoplegraph.blob.core.windows.net/images/Matthew.jpg,110000,80000,Sales,Sales,Manager,Account Manager
+Mats,Rob,https://peoplegraph.blob.core.windows.net/images/Mats.jpg,https://peoplegraph.blob.core.windows.net/images/Rob.jpg,110000,85000,Sales,Sales,Manager,Account Manager
+Paul,Evy,https://peoplegraph.blob.core.windows.net/images/Paul.jpg,https://peoplegraph.blob.core.windows.net/images/Evy.jpg,220000,80000,Board,HR,CEO,Manager
+Paul,Luc,https://peoplegraph.blob.core.windows.net/images/Paul.jpg,https://peoplegraph.blob.core.windows.net/images/Luc.jpg,220000,90000,Board,IT,CEO,Manager
+Paul,Mats,https://peoplegraph.blob.core.windows.net/images/Paul.jpg,https://peoplegraph.blob.core.windows.net/images/Mats.jpg,220000,110000,Board,Sales,CEO,Manager

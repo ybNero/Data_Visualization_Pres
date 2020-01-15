@@ -1,0 +1,13 @@
+﻿Category,Subcategory,Area,Sales
+Category1,SC1,Asia,5
+Category1,SC1,Europe,1
+Category1,SC1,North America,9
+Category1,SC2,Asia,6
+Category1,SC2,Europe,2
+Category1,SC2,North America,10
+Category2,SC1,Asia,7
+Category2,SC1,Europe,3
+Category2,SC1,North America,11
+Category2,SC2,Asia,8
+Category2,SC2,Europe,4
+Category2,SC2,North America,12
